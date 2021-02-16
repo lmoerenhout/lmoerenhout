@@ -1,5 +1,5 @@
 - 👋 Hey, nice to meet you!
-- 👋 Any feedback is appreciated, cheers!
+- Any feedback is appreciated, cheers!
 
 <!---
 lmoerenhout/lmoerenhout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
